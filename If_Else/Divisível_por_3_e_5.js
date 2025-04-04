@@ -1,4 +1,4 @@
-num = 90;
+let num = 90;
 
 if (num % 3 == 0 && num % 5 == 0) {
     console.log(`${num} é divisivel pelo 3 e o 5`);
