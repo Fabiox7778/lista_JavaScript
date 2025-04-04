@@ -1,7 +1,7 @@
-num1 = 30;
-num2 = 10;
+let num1 = 30;
+let num2 = 10;
 
-operacao = 1;
+let operacao = 1;
 
 switch (operacao) {
     case 1:
