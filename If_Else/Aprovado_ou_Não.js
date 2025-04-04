@@ -1,4 +1,4 @@
-nota = 80;
+let nota = 80;
 
 if (nota >= 0 && nota <= 100) {
     if (nota >= 60) {
