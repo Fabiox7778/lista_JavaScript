@@ -1,8 +1,9 @@
-let numero = -15;
+let num1 = 15;
+let num2 = 20;
 
-if (numero < 0) {
-    console.log(`O número ${numero} é negativo`);
+if (num1 > 0 && num2 > 0) {
+    console.log(`Sim, os dois números são positivos`);
 }
 else {
-    console.log(`O número ${numero} é positivo`);
+    console.log(`Não, os dois numeros não são positivos`);
 }
