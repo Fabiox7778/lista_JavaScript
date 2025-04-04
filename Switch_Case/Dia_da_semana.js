@@ -1,4 +1,4 @@
-diaDaSemana = 6
+let diaDaSemana = 6
 
 switch (diaDaSemana) {
     case 1:
