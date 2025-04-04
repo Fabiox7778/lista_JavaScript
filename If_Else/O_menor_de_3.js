@@ -1,6 +1,6 @@
-num1 = 30
-num2 = 20
-num3 = 10
+let num1 = 30
+let num2 = 20
+let num3 = 10
 
 if (num1 <= num2 && num2 <= num3) {
     console.log(num1)
