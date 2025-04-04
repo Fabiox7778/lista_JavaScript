@@ -1,4 +1,4 @@
-Temperatura = 16;
+let Temperatura = 16;
 
 if (Temperatura > 25) {
     console.log("Quente");
