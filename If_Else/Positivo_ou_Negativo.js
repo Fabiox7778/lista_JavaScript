@@ -1,4 +1,4 @@
-num = 22;
+let num = 22;
 
 if (num > 0) {
     console.log(`${num} é positivo`);
