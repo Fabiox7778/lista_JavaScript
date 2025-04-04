@@ -1,4 +1,4 @@
-let base = 15;
+let base = 16;
 let altura = 8;
 
 let area = base * altura;
