@@ -1,4 +1,4 @@
-mesDoAno = 6;
+let mesDoAno = 6;
 
 switch (mesDoAno) {
     case 1:
