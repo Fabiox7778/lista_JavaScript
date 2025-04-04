@@ -1,4 +1,4 @@
-idade = 15;
+let idade = 15;
 
 if (idade >= 16 && idade <= 70) {
     console.log("Pode votar");
