@@ -1,4 +1,4 @@
-let dinheiro = 200;
+let dinheiro = 400;
 let pessoas = 4;
 
 let DivPorPessoa = dinheiro / pessoas;
