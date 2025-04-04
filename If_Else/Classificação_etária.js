@@ -1,4 +1,4 @@
-idade = 15;
+let idade = 15;
 
 if (idade > 60) {
     console.log("idoso");
