@@ -1,4 +1,4 @@
-num = 18;
+let num = 18;
 
 if (num % 2 == 0 && num > 10) {
     console.log(`${num} é par e maior que 10`);
