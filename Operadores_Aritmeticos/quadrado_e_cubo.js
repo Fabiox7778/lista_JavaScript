@@ -1,4 +1,4 @@
-let num = 50;
+let num = 40;
 
 let aoQuadrado = num ** 2;
 let aoCubo = num ** 3;
